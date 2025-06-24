@@ -10,7 +10,7 @@
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
 ## Live Deployment
-https://dionysus-sgun.onrender.com/dashboard
+https://dionysus-sgun.onrender.com
 ## Features
 
 - **GitHub Integration** - Connect and analyze any GitHub repository
