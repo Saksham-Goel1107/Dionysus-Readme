@@ -10,7 +10,7 @@
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
 ## Live Deployment
-https://dionysus-gray.vercel.app
+https://dionysus-sgun.onrender.com/dashboard
 ## Features
 
 - **GitHub Integration** - Connect and analyze any GitHub repository
@@ -21,7 +21,7 @@ https://dionysus-gray.vercel.app
 - **Dark Mode & Responsive Design** - Works on all devices
 
 ## Quick Start
--The source code is private so you can't access it
+-The source code is available at https://github.com/Saksham-Goel1107/Dionysus
 ## Tech Stack
 
 - **Framework**: [Next.js 15.0](https://nextjs.org/)
@@ -80,8 +80,8 @@ https://dionysus-gray.vercel.app
     ---
 
     <p align="center">
-      <a href="https://dionysus-gray.vercel.app">Website</a> •
-        <a href="https://github.com/Saksham-Goel1107/Dionysus-readme/issues">Report Bug</a> •
-          <a href="https://github.com/Saksham-Goel1107/Dionysus-readme/issues">Request Feature</a>
+      <a href="https://dionysus-sgun.onrender.com">Website</a> •
+        <a href="https://github.com/Saksham-Goel1107/Dionysus/issues">Report Bug</a> •
+          <a href="https://github.com/Saksham-Goel1107/Dionysus/issues">Request Feature</a>
           </p>
           
